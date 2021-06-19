@@ -1,7 +1,10 @@
 # 疯狗视频网
-## xzheifen.github.io
+## liuyue.tk
 ### 网站简介
-本网站由xz黑粉网改造而成  
-目的是为了弘扬疯狗精神  
+本网站于2021年6月7日起由雾散接手
+目前已经关闭主页
+#备用网页 https://liuyue.tk/beiyongzhuye
 ### 疯狗音乐
-本网站已经和[疯狗音乐](fenggoumusic.github.io)打成完全合作，网页风格会很像
+本网站和疯狗音乐(hldssyxx.tk)为同作者
+qq合作:3573759372
+e-mail:fenggoumusic@hotmail.com
